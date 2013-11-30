@@ -1,6 +1,7 @@
 Mr.Nadtanan Praphansiri Student ID 5310613194
 Mr.Peeravas Ruengsawas  Student ID 5310612048
 
+<pre>
 Grading:
 part1: 100
 
@@ -64,3 +65,5 @@ Total: 290
 Late: 0 day
 Deduction: 0
 Final Score: 290/300
+</pre>
+
